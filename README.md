@@ -11,7 +11,7 @@ Feel free to contact me on these social medias!<br>
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=taufiqqq&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taufiqqq&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqqq&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqqq&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 ---
 
 <!-- [![](https://visitcount.itsvg.in/api?id=taufiqqq&label=Profile%20Views&color=5&icon=3&pretty=true)](https://visitcount.itsvg.in)-->
