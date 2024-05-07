@@ -1,5 +1,5 @@
 # About Me:
-I am a 3rd Year Bachelor of Computer Science (Software Engineering) student at Universiti Teknologi Malaysia. I am interested in tech stuff like keyboard building, problem solving, teaching people how to code and involve in project development. I am looking forward to collaborate on any project, to boost further my skills. My skill set spans a broad spectrum, but right now I am focusing on web dev, mobile app dev and SDLC requirements.
+I am a 3rd Year Bachelor of Computer Science (Software Engineering) student at Universiti Teknologi Malaysia. I am interested in tech stuff like keyboard building, problem solving, teaching people how to code and involve in project development. I am looking forward to collaborate on any project, to boost further my skills. My skill set spans a broad spectrum, but right now I am focusing on web dev, mobile app dev and SDLC requirements. Also, I am interested in AI and game development. HMU if you want to collaborate on any project or hackathon! ^w^
 
 ## Socials:
 Feel free to contact me on these social medias!<br>
