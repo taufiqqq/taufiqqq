@@ -1,5 +1,5 @@
 # About Me:
-4th Year Bachelor of Computer Science (Software Engineering) student at Universiti Teknologi Malaysia. I have some knowledge in mobile app, web, vr game dev, SDLC and fintech industry (doing internship rn). HMU if you want to collaborate on any project or hackathon!
+4th Year Bachelor of Computer Science (Software Engineering) student at Universiti Teknologi Malaysia. I have some knowledge in mobile app, web, vr game dev, SDLC and currently interning at a fintech company. HMU if you want to collaborate on any project or hackathon!
 
 ## Socials:
 Feel free to contact me on these social medias!<br>
