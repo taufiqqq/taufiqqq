@@ -13,7 +13,6 @@ Feel free to contact me on these social medias!<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taufiqqq&theme=radical&hide_border=false)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqqq&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 ---
-[![committers.top badge](https://user-badge.committers.top/malaysia_private/taufiqqq.svg)](https://user-badge.committers.top/malaysia_private/taufiqqq)
 
 <!-- [![](https://visitcount.itsvg.in/api?id=taufiqqq&label=Profile%20Views&color=5&icon=3&pretty=true)](https://visitcount.itsvg.in)-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
